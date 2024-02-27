@@ -1,0 +1,160 @@
+body {
+    padding: 5px;
+    background-color: rgb(253, 254, 255);
+    position: relative;
+    display: flex;
+    flex-direction: column;
+   
+}
+.colors{
+    background-color: rgb(128, 154, 241);
+    height: 400px;
+    max-width: 100%;
+  clip-path: ellipse(90% 70% at 60% 70%);
+
+
+}
+#king{
+    margin-top: -80px;
+ display: flex;
+ align-items: baseline;
+ z-index: 0;
+
+}
+.fe {
+    
+    font-size: 19px;
+    font-family: story, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.zed{
+  justify-content: space-evenly;
+    align-self: baseline;
+    margin-left: 30px;
+}
+.ft{
+
+    font-size: 34px;
+    color: rgb(67, 67, 233);
+}
+.few{
+    color: black;
+    font-size: 15px;
+    font-weight: 400;
+    font-size: 15px;
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.zed{
+  margin-left: 10px;
+  display: flex;
+}
+.i {
+
+    border: 0cm white solid;
+    cursor: pointer;
+    background-color: rgb(253, 254, 255);
+}
+.ii{
+    
+}
+.iii{
+
+}
+
+    .few{
+        padding: 10px;
+    }
+
+.butt{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    color: rgb(242, 250, 250);
+   padding-top: 5px;
+
+     border-radius: 6px;
+     height: 30px;
+     width: 70px;
+     font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+     border: 0px blue solid;
+     cursor: pointer;
+    
+}
+
+.button1{
+background-color: rgb(13, 12, 15);
+margin-left: 150px;
+
+
+}
+.button2{
+    background-color:  rgb(81, 11, 209);
+    margin-left: 10px;
+}
+.fine{
+    align-self: center;
+    font-family: Helvetica, sans-serif, 'Times New Roman', serif ;
+    margin-top: 30px;
+    margin-left: 40px;
+    font-size: 40px;
+}
+.open{
+    height: 35px;
+    width: 250px;
+    border: 0px white solid;
+    border-radius: 4px;
+    background-color: rgb(206, 207, 203);
+}
+.button3{
+    color: rgb(242, 250, 250);
+    height: 33px;
+    border: 0px rgb(81, 11, 209) solid;
+    background-color: rgb(81, 11, 209);
+    width: 70px;
+    border-radius: 4.5px;
+    font-family:  system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.hh{
+    margin-left: 100px;
+    margin-bottom: 40px;
+}
+
+.bbo{
+    align-self: center;
+    font-size: 17px;
+    font-family: comic-sans, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, 'Lucida Sans', Arial, sans-serif ;
+    z-index: 12;
+    margin-left: 50px;
+    margin-top: -20px;
+}
+.ball{
+    
+    justify-content: space-between;
+ margin-top: -190px;
+}
+.cir{
+    background-color: rgb(182, 182, 250);
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+.one{
+    background-color: rgb(187, 255, 210);
+    
+    z-index: 1;
+ }         
+.onee{
+    background-color: rgb(255, 248, 187);
+    height: 65px;
+    width: 65px;
+    z-index: inherit;
+}
+.oneee{
+    background-color: rgb(187, 255, 190);
+    height: 50px;
+    width: 50px;
+    z-index: inherit;
+}
+
+
+
+
